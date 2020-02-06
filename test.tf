@@ -12,6 +12,6 @@ resource "github_repository" "test_terraform" {
 
   template {
     owner = "SidAgrawal-1212"
-    repo = "ansible_advance_homework"
+    repository = "ansible_advance_homework"
   }
 }
