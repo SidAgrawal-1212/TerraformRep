@@ -2,7 +2,7 @@
 
 provider "github" {
   token        = "86b2ec558029e5c1c696b161e84c236d97159759"
-  individual = "true"
+  organization = "SdxWipro"
 }
 
 resource "github_repository" "test_terraform" {
