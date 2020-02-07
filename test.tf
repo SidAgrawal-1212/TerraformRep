@@ -1,7 +1,8 @@
 # Configure the GitHub Provider
 provider "github" {
-  individual = "true"
-  token = "86b2ec558029e5c1c696b161e84c236d97159759"
+  token        = "86b2ec558029e5c1c696b161e84c236d97159759"
+  organization = "SdxWipro"
+
 }
 
 # Add a user to the organization
