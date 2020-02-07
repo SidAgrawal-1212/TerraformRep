@@ -1,6 +1,6 @@
 # Configure the GitHub Provider
 provider "github" {
-
+  individual = "true"
 }
 
 # Add a user to the organization
