@@ -1,6 +1,6 @@
 # Configure the GitHub Provider
 provider "github" {
-  token        = "86b2ec558029e5c1c696b161e84c236d97159759"
+  token        = "43aaea4d49cf9a20e8635491bc6b2b523117576a"
   individual = "true"
 
 }
